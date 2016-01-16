@@ -5,7 +5,10 @@ import java.io.FileNotFoundException;
 import java.util.HashMap;
 import java.util.Scanner;
 import java.util.Stack;
-
+/**
+ * Trying out Git for the first time and I am 
+ * adding this comment for fun
+ * /
 public class Main {
 
 	HashMap<String, Long> numberList = new HashMap<String, Long>();
